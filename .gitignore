@@ -1,3 +1,4 @@
 gen
 *.apk
 *.jar
+*.class
