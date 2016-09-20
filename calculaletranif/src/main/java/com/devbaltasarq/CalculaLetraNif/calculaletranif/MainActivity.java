@@ -1,24 +1,18 @@
-package com.devbaltasarq.calculaletranif;
+package com.devbaltasarq.CalculaLetraNif.calculaletranif;
 
-import android.app.Activity;
-import android.app.AlertDialog;
-import android.app.DatePickerDialog;
-import android.app.TimePickerDialog;
-import android.content.DialogInterface;
 import android.os.Bundle;
-import android.preference.DialogPreference;
+import android.support.v7.app.AppCompatActivity;
 import android.text.Editable;
 import android.text.TextWatcher;
-import android.view.KeyEvent;
-import android.view.View;
-import android.widget.*;
+import android.widget.EditText;
+import android.widget.TextView;
+import android.widget.Toast;
 
-/** Actividad de arranque de la app */
-public class Main extends Activity {
+public class MainActivity extends AppCompatActivity {
     @Override
     public void onCreate(Bundle appState) {
         super.onCreate(appState);
-        this.setContentView(R.layout.main);
+        this.setContentView(R.layout.activity_main);
 
         // Link to events
         EditText edDni = (EditText) this.findViewById( R.id.edDni );
@@ -35,7 +29,7 @@ public class Main extends Activity {
 
             @Override
             public void afterTextChanged(Editable editable) {
-                Main.this.calcula();
+                MainActivity.this.calcula();
             }
         });
     }
@@ -48,8 +42,8 @@ public class Main extends Activity {
             String value = edDni.getText().toString();
             int dni = Integer.parseInt( value );
             String result = value;
-            result += Character.toString(com.devbaltasarq.calculaletranif.CalculoLetraNif.calculaLetraNif(dni));
-            lblResult.setText(result);
+            result += Character.toString(CalculoLetraNif.calculaLetraNif(dni));
+            lblResult.setText( result );
         }
         catch(NumberFormatException exc) {
             lblResult.setText( R.string.label_default_result );

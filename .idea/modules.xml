@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CalculaLetraNif.iml" filepath="$PROJECT_DIR$/CalculaLetraNif.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calculaletranif/calculaletranif.iml" filepath="$PROJECT_DIR$/calculaletranif/calculaletranif.iml" />
     </modules>
   </component>
 </project>
