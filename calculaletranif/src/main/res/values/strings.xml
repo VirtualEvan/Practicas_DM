@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">CalculaLetraNif</string>
     <string name="app_title">Letra del NIF</string>
-    <string name="label_value">Value</string>
+    <string name="label_value">Número</string>
     <string name="label_result">Resultado</string>
     <string name="label_default_result">Sin letra</string>
 </resources>
