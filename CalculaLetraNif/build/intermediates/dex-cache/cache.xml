@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_03ceea7ce5da238ef55b08261d4709161c445c8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_6f03332aee27ebe288ec09014c19724c5d7f9da1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_72b0d0fa9ce51279fc852a44b600943d9ef60a6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_102cd2654ff2fa0879a87886017e0e4c23a8129f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_ea8eb64557cf5514b8816af8e664b9d4c82767ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_a41083e04cf1b4808132af73aa1ddc01b89583b6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e6c819446376f16e866547d820e575c3a6fd6600\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_db5d291e715bc25d5b28a7495c36851970273e85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_b946a293e524c3a95c14fe8549a213ce6a80152c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_3705e6992caa11ab8d0bf0b96213091677464029\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_7b5638d6f68d1257d866e2d854d443d6dab83507\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="798f0b0d53e6bb9effdf1e9bdf37bf72979c5f74">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_57fb3f9f569d2d1fd263437f5643cf37366f81c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="83463a3b9234818a8f9c9bdadc0f4ebe593b41f0">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_87303c7d05ff8381df6513268ce1fd2d9c411f89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_530236c65c67edcfc4176118a5a57e4e33a13950\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_9316a0881d41344b9bf970238e62d280302e64ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_7aa56ca60213c43c087a927fca7e371089d802cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\App\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\ESEI\Cuarto\DM\CalculaLetraNif\calculaletranif\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_262585cb588cdb8f692c675bdf61f4117e4fb626\classes.dex" />
+    </item>
+
+</items>

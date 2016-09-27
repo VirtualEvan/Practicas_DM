@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CalculaTemperatura</string>
+
+    <string name="lbl_celcius">Grados Celcius</string>
+    <string name="lbl_fahrenheit">Grados Fahrenheit</string>
+
+</resources>
