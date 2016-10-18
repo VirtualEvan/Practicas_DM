@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListaCompra</string>
+    <string name="opInserta">Inserta</string>
+    <string name="opEliminaUltimo">Elimina Ultimo</string>
+    <string name="opElimina">Elimina</string>
+    <string name="lblContextTitulo">Opciones</string>
+</resources>
